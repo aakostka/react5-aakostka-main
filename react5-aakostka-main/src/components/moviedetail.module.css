@@ -1,0 +1,25 @@
+.card {
+    background-color: #222; 
+    max-width: 800px; /* Set the maximum width */
+    margin: 0 auto; /* Center the content */
+}
+
+.image {
+    background-color: #222;
+    max-width: 100%;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+
+.formContainer {
+    background-color: #222;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.labelText {
+    background-color: #222;
+    color: #fff;
+}
